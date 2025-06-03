@@ -1,7 +1,7 @@
-## Olá eu sou Alexsandro 
+## Olá! eu sou Alexsandro. 
 
 - Estudante de ciência da computação 
-- Me aprofundando no desenvolvimento com java
+- Focando no desenvolvimento java
 
 ## Tecnologias: 
 <div style="display: inline_block"><br>
